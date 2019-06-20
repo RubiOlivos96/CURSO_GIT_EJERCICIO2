@@ -1,8 +1,12 @@
-Titulo: WINDOWS 7
-Fecha de lanzamiento: 22 de Octubre de 2009
+Titulo: WINDOWS 8
+Fecha de lanzamiento: 26 de Octubre de 2012
 Idiomas: Multilenguaje
 Plataformas: x86 y x64
-Predecesor: Windows Vista
+Predecesor: Windows 7
 
-La barra de tareas fue rediseñada, es más ancha, y los botones de las 
-ventanas ya no traen texto, sino únicamenteel icono de la aplicación.
+El cambio más resaltante es la Pantalla de Inicio una nueva colorida 
+interfaz encima del escritorio clásico. Esta interfaz tiene el nombre 
+clave de Metro ó sólo Inicio.
+
+Menú Inicio: Este elemento fue eliminado y su función la suple la 
+Pantalla Inicio y la barra de Charm.
