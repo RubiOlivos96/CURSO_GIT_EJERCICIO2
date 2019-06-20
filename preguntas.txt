@@ -1,0 +1,17 @@
+1.- ¿Qué comando ejecutó en el paso 5?
+	git add -A, porque fue el único archivo que se tenía. 
+	Pero para subir al staging area un sólo archivo, basta con: git add Nombre_del_Archivo.
+
+2.- ¿Qué comando ejecutó en el paso 10 y cuál fue el resultado que mostró git?
+	git branch, y mostró el listado de las ramas existentes en el repositorio. 
+	Un asterisco muestra la rama en la que se encuentra actualmente.
+
+3.- ¿Qué comando ejecutó en el paso 12 y decir en qué rama se encuentra?.
+	Para verificar que se esta en la rama correcta, además de la respuesta anterior (con git branch), se puede ver junto a la ruta del repositorio en Git Bash, la rama en la que se encuentra (en color azul).	
+
+4.- ¿Porqué se causo el conflicto en el paso 28?.
+	Porque no se tenia el repositorio local actualizado conforme el repositorio remoto. 
+	El repositorio remoto tiene mayor prioridad respecto a los cambios, y al modificarse un mismo archivo en ambos lados, considera que el desarrollador revise los cambios, antes de guardarlos.
+
+5.- ¿Qué comando se ejecutó en el paso 32?
+	git push (Subir los cambios a Github).
